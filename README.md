@@ -109,3 +109,5 @@ Execute the program
 ```
 # OUPUT
 ![timetable](/Screenshot%202023-01-09%20093435.jpg)
+# RESULT
+Thus the HTML program executed successfully
